@@ -4,6 +4,7 @@
 
 $url = 'http://api.openweathermap.org/data/2.5/weather';
 
+
 $options = array(
     'id' => 700568,
     'APPID' => 'b7baa67d8544edb9f9160b7300a709be',
