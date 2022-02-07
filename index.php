@@ -1,8 +1,5 @@
 <?php
-//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   - github
-//https://api.github.com/search/users?q=tomas+repos:>42+followers:>1000
 
-// it`s branch second
 $url = 'http://api.openweathermap.org/data/2.5/weather';
 
 $options = array(
