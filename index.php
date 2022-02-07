@@ -22,5 +22,3 @@ curl_close($ch);
 echo '<pre>';
 
 print_r($outputData);
-
-
