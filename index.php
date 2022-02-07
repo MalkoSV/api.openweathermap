@@ -1,5 +1,5 @@
 <?php
-// last modification from git
+// last modification from git 2.0
 
 $url = 'http://api.openweathermap.org/data/2.5/weather';
 
